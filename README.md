@@ -13,12 +13,3 @@ Interfaz gráfica de usuario utilizando Pygame.
 modos de juego: jugador contra jugador.
 Reinicio del juego después de que se determina un ganador o un empate presionando la letra R.
 
-Instalación
-
-1-Clona el repositorio a tu máquina local:
-
-git clone https://github.com/AndyMR96/Ta-Te-Ti-Pygame.git
-
-2-Instala las dependencias:
-
-pip install -r requirements.txt
